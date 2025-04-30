@@ -18,3 +18,6 @@ This project analyzes Twitter sentiment and its correlation with stock market mo
 ```bash
 git clone https://github.com/shilpasingla05/stock-market-sentiment-analysis.git
 cd stock-market-sentiment-analysis
+``` 
+### 2. Setup dataset
+Download the dataset from [Sentiment140](https://www.kaggle.com/datasets/kazanova/sentiment140) and place into content folder. Rename the csv file to training.1600000.processed.noemoticon.csv
